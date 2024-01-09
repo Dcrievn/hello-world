@@ -1,2 +1,2 @@
 # hello-world
-verify github account
+Verifying GitHub account for CIS 174
